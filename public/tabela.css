@@ -1,0 +1,14 @@
+.tabela{
+    height: 300px;
+    width: 500px;
+    border: 3px, solid;
+    border-color: black;
+}
+
+.tabela tbody{
+    text-align: center;
+}
+
+.titulo{
+    left: 20px;
+}
